@@ -116,7 +116,7 @@ if solve() == sat:
 
 ## Example
 Consider the following example.  
-* Solve all integers x and y such that : $7x + 11y = 1$ where $-100 \le x, y \le 100$
+* Solve all integers x and y such that : $7x + 11y = 1$ where $-100 \le x, y \le 100$  
     ```py
     from coppy import *
     x = Int('x', -100, 100)
