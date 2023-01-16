@@ -48,7 +48,7 @@ from coppy import *
     add(Imp(p & ~q, r))
     ```
 * Show CSP
-    * Show CSP on console
+    * Show CSP
         ```py
         show()
         ```
